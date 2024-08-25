@@ -157,6 +157,8 @@ box-shadow: 0 15px 15px 0 rgb(0 0 0 / 50%);
     color: #7c7f7f;
 }
 
+/* Passo */
+
 .passos{
     font-size: 18px;
     display: flex;
@@ -193,3 +195,32 @@ box-shadow: 0 15px 15px 0 rgb(0 0 0 / 50%);
     background-color: #333;
     align-self: stretch;
 }
+
+/* Aprender */
+
+.secao--aprender{
+    background-color: #000618 ;
+}
+
+.temas{
+    align-self: stretch;
+    font-size: 18px;
+}
+
+.tema{
+    background-color: #050505;
+    border-radius: 10px;
+    padding: 25px 60px;
+    box-shadow: 0 0 7.5px 0px #00a1ff
+}
+
+.hexagono{
+    max-width: 53px;
+    background-color: #141213;
+    border-radius: 7.5px;
+    padding: 12.5px;
+    box-shadow: 0 0 7.5px 0px #00a1ff, inset 0 0 2.5px 0px #005080  ;
+    border: 3px solid #262427;
+}
+ 
+    
